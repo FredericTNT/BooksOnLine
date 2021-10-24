@@ -1,11 +1,11 @@
 # BooksOnline
 
 ## Table des matières
-1. [Informations générales](#Informations générales)
+1. [Informations générales](#Informations_générales)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Exécution](#Exécution)
-## Informations générales
+## Informations_générales
 ***
 Web scrapping du site http://books.toscrape.com
  + Génération d'un fichier csv pour chaque catégorie de livre

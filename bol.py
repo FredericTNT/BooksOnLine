@@ -56,7 +56,7 @@ def BookEntete(nom):
 
 
 def BookCSV(nom, ligne):
-    with open(nom, 'a', newline='', encoding='utf-8') as fichier_csv:
+    with open(nom, 'a', newline='', encoding='utf-8-sig') as fichier_csv:
         writer = csv.writer(fichier_csv, delimiter=';')
         writer.writerow(ligne)
     return
