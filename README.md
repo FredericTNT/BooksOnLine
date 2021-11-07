@@ -32,7 +32,10 @@ $ pip install - r requirements.txt
 ```
 ## Exécution
 ***
-L'application se lance en exécutant le programme bol.py dans l'environnement virtuel activé -- **python bol.py**
+L'application se lance en exécutant le programme bol.py dans l'environnement virtuel activé
+```
+$ python bol.py
+```
 
 Les fichiers csv et jpg sont générés dans le répertoire **/Books** et celui-ci est **supprimé**, s'il existe, au début de chaque exécution.
 
